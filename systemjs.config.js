@@ -38,6 +38,7 @@
                 main: './index.js',
                 defaultExtension: 'js'
             }
-        }
+        },
+        baseURL: '/Angular2---simple-website/'
     });
 })(this);
